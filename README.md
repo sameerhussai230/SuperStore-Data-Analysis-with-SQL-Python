@@ -19,6 +19,7 @@ maintained the integrity of the project.
 This project provided an excellent opportunity for me to apply my analytical skills in writing SQL queries that address real-world problems and cater to specific business needs. I employed various techniques, such as date filtering, multiple text filters, adding a category column,
 and modifying row values, demonstrating the versatility of my SQL skills. These skills were instrumental in conducting comprehensive data analysis, complementing the power of pandas and numpy.
 
+![image](https://github.com/sameerhussai230/SuperStore-Data-Analysis-with-SQL-Python/assets/85198601/14c8c2b8-aeae-4ca8-89a9-7e8ebe97efbf)
 
 **Enhancing Analytical Abilities and Driving Informed Decision-Making**
 This SQL project significantly enhanced my analytical abilities and demonstrated the practical application of SQL in data analysis. By leveraging the samplestore dataset, executing SQL queries, visualizing results using Python libraries, and utilizing my analytical skills, I derived
